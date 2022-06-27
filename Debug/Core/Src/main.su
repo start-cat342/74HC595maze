@@ -1,0 +1,12 @@
+../Core/Src/main.c:76:6:queue_into	16	static
+../Core/Src/main.c:81:6:queue_push	16	static
+../Core/Src/main.c:87:6:queue_pop	24	static
+../Core/Src/main.c:104:5:queue_size	16	static
+../Core/Src/main.c:113:6:BFS	40	static
+../Core/Src/main.c:147:6:line	40	static
+../Core/Src/main.c:207:6:out595	8	static
+../Core/Src/main.c:216:6:set595	16	static
+../Core/Src/main.c:234:5:main	352	static
+../Core/Src/main.c:323:6:SystemClock_Config	96	static
+../Core/Src/main.c:367:13:MX_GPIO_Init	32	static
+../Core/Src/main.c:403:6:Error_Handler	8	static,ignoring_inline_asm
